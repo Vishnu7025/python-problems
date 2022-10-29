@@ -1,0 +1,8 @@
+num1 =int(input("Enter a number into A: "))
+num2 =int(input("Enter a number int B: "))
+
+temp=0
+temp=num1
+num1=num2
+num2=temp
+print("vlaues after swaping: \n","A =",num1,"\n","B =",num2)
