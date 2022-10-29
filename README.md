@@ -1,2 +1,2 @@
 # python-problems
-**python interview questions**
+**python interview problems**
