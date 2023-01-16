@@ -1,9 +1,9 @@
-# num = int(input("Enter a number which you want to see the factorial: "))
-# fact =1
-# while(num>0):
-#     fact=fact * num
-#     num=num-1
-# print(fact)
+num = int(input("Enter a number which you want to see the factorial: "))
+fact =1
+while(num>0):
+    fact=fact * num
+    num=num-1
+print(fact)
 
 # num = int(input("enter the num : "))
 # factorial = 1
