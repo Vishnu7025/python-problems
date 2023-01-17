@@ -1,2 +1,8 @@
-my_dict = { 'key1':'value1','key2':'value33','key3':'avasta'}
-print(my_dict)  
+Dictionary = {
+    "key1":"Good",
+    "key2":"Super",
+    "key3":"Nice",
+    "key4":"VVGood",
+    "key5":'nothing'
+}
+print(Dictionary.values())
